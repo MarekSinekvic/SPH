@@ -1,4 +1,4 @@
-# Smoother Particles Hydrodynamics
+# Smoothed Particles Hydrodynamics
 
 ## Description
 For building project you also will need to install <a href="https://developer.nvidia.com/cuda-downloads">CUDA SDK</a>  
